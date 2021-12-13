@@ -1,0 +1,16 @@
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.exe
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.deps.json
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.runtimeconfig.json
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.runtimeconfig.dev.json
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresLogicos\bin\Debug\net5.0\ref\OperadoresLogicos.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.pdb
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.csproj.AssemblyReference.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresLogicos\obj\Debug\net5.0\ref\OperadoresLogicos.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.pdb
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.genruntimeconfig.cache
