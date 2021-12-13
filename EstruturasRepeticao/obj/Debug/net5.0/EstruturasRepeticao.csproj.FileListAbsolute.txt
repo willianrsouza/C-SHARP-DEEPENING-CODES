@@ -1,0 +1,16 @@
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasRepeticao\bin\Debug\net5.0\EstruturasRepeticao.exe
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasRepeticao\bin\Debug\net5.0\EstruturasRepeticao.deps.json
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasRepeticao\bin\Debug\net5.0\EstruturasRepeticao.runtimeconfig.json
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasRepeticao\bin\Debug\net5.0\EstruturasRepeticao.runtimeconfig.dev.json
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasRepeticao\bin\Debug\net5.0\EstruturasRepeticao.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasRepeticao\bin\Debug\net5.0\ref\EstruturasRepeticao.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasRepeticao\bin\Debug\net5.0\EstruturasRepeticao.pdb
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasRepeticao\obj\Debug\net5.0\EstruturasRepeticao.csproj.AssemblyReference.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasRepeticao\obj\Debug\net5.0\EstruturasRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasRepeticao\obj\Debug\net5.0\EstruturasRepeticao.AssemblyInfoInputs.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasRepeticao\obj\Debug\net5.0\EstruturasRepeticao.AssemblyInfo.cs
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasRepeticao\obj\Debug\net5.0\EstruturasRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasRepeticao\obj\Debug\net5.0\EstruturasRepeticao.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasRepeticao\obj\Debug\net5.0\ref\EstruturasRepeticao.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasRepeticao\obj\Debug\net5.0\EstruturasRepeticao.pdb
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasRepeticao\obj\Debug\net5.0\EstruturasRepeticao.genruntimeconfig.cache
