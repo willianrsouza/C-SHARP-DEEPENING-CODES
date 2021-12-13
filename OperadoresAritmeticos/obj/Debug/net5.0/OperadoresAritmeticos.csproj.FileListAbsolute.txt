@@ -1,0 +1,16 @@
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.exe
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.deps.json
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.runtimeconfig.json
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.runtimeconfig.dev.json
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresAritmeticos\bin\Debug\net5.0\ref\OperadoresAritmeticos.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresAritmeticos\bin\Debug\net5.0\OperadoresAritmeticos.pdb
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.csproj.AssemblyReference.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresAritmeticos\obj\Debug\net5.0\ref\OperadoresAritmeticos.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.pdb
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\OperadoresAritmeticos\obj\Debug\net5.0\OperadoresAritmeticos.genruntimeconfig.cache
