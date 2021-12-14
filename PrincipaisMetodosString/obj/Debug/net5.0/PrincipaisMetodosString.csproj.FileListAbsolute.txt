@@ -1,0 +1,16 @@
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\PrincipaisMetodosString\bin\Debug\net5.0\PrincipaisMetodosString.exe
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\PrincipaisMetodosString\bin\Debug\net5.0\PrincipaisMetodosString.deps.json
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\PrincipaisMetodosString\bin\Debug\net5.0\PrincipaisMetodosString.runtimeconfig.json
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\PrincipaisMetodosString\bin\Debug\net5.0\PrincipaisMetodosString.runtimeconfig.dev.json
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\PrincipaisMetodosString\bin\Debug\net5.0\PrincipaisMetodosString.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\PrincipaisMetodosString\bin\Debug\net5.0\ref\PrincipaisMetodosString.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\PrincipaisMetodosString\bin\Debug\net5.0\PrincipaisMetodosString.pdb
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\PrincipaisMetodosString\obj\Debug\net5.0\PrincipaisMetodosString.csproj.AssemblyReference.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\PrincipaisMetodosString\obj\Debug\net5.0\PrincipaisMetodosString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\PrincipaisMetodosString\obj\Debug\net5.0\PrincipaisMetodosString.AssemblyInfoInputs.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\PrincipaisMetodosString\obj\Debug\net5.0\PrincipaisMetodosString.AssemblyInfo.cs
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\PrincipaisMetodosString\obj\Debug\net5.0\PrincipaisMetodosString.csproj.CoreCompileInputs.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\PrincipaisMetodosString\obj\Debug\net5.0\PrincipaisMetodosString.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\PrincipaisMetodosString\obj\Debug\net5.0\ref\PrincipaisMetodosString.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\PrincipaisMetodosString\obj\Debug\net5.0\PrincipaisMetodosString.pdb
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\PrincipaisMetodosString\obj\Debug\net5.0\PrincipaisMetodosString.genruntimeconfig.cache
