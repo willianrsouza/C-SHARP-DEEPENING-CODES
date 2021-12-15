@@ -1,0 +1,16 @@
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasArraysLists\bin\Debug\net5.0\EstruturasArraysLists.exe
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasArraysLists\bin\Debug\net5.0\EstruturasArraysLists.deps.json
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasArraysLists\bin\Debug\net5.0\EstruturasArraysLists.runtimeconfig.json
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasArraysLists\bin\Debug\net5.0\EstruturasArraysLists.runtimeconfig.dev.json
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasArraysLists\bin\Debug\net5.0\EstruturasArraysLists.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasArraysLists\bin\Debug\net5.0\ref\EstruturasArraysLists.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasArraysLists\bin\Debug\net5.0\EstruturasArraysLists.pdb
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasArraysLists\obj\Debug\net5.0\EstruturasArraysLists.csproj.AssemblyReference.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasArraysLists\obj\Debug\net5.0\EstruturasArraysLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasArraysLists\obj\Debug\net5.0\EstruturasArraysLists.AssemblyInfoInputs.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasArraysLists\obj\Debug\net5.0\EstruturasArraysLists.AssemblyInfo.cs
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasArraysLists\obj\Debug\net5.0\EstruturasArraysLists.csproj.CoreCompileInputs.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasArraysLists\obj\Debug\net5.0\EstruturasArraysLists.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasArraysLists\obj\Debug\net5.0\ref\EstruturasArraysLists.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasArraysLists\obj\Debug\net5.0\EstruturasArraysLists.pdb
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\C# Concepts\EstruturasArraysLists\obj\Debug\net5.0\EstruturasArraysLists.genruntimeconfig.cache
